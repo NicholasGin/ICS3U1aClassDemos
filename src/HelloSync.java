@@ -9,6 +9,8 @@ public class HelloSync {
 		System.out.println("Hello from School");
 		
 		System.out.println("I can't stop saying hi!!!");
+		
+		System.out.println("Hello from Home");
 	}
 
 }
